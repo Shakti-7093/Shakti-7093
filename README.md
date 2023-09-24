@@ -1,3 +1,4 @@
+![logo](https://github.com/Shakti-7093/Shakti-7093/blob/main/ShaktiYT.png)
 <h1 align="center">Hi 👋, I'm Shakti Singh Chundawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
