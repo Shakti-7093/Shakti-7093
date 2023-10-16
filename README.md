@@ -1,5 +1,16 @@
+<p align="center">
+  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;EXPERIENCED%20UI%2FUX%20DESIGNER;2%2B%20YEAR's%20of%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=30C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
+</p>
 ![logo](https://github.com/Shakti-7093/Shakti-7093/blob/main/GitHub%20Banner.png)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shakti-7093&theme=radical&margin-h=10&no-frame=true&column=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shakti-7093&theme=radical&margin-h=10&no-frame=true&column=4@aliing=center)
 <h1 align="center">Hi 👋, I'm Shakti Singh Chundawat</h1>
 <h3 align="center">A passionate Full Stack Web Developer, Mern Developer and Application Developer.</h3>
 
