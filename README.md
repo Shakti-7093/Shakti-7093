@@ -10,7 +10,7 @@
   🅒🅞🅝🅝🅔🅒🅣 🅦🅘🅣🅗 🅜🅔
 </p>
 ![logo](https://github.com/Shakti-7093/Shakti-7093/blob/main/GitHub%20Banner.png)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shakti-7093&theme=radical&margin-h=10&no-frame=true&column=4@aliing=center)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Shakti-7093&theme=radical&margin-h=10&no-frame=true&column=4)
 <h1 align="center">Hi 👋, I'm Shakti Singh Chundawat</h1>
 <h3 align="center">A passionate Full Stack Web Developer, Mern Developer and Application Developer.</h3>
 
